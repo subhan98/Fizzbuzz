@@ -1,4 +1,7 @@
 def fizzbuzz(number)
   'fizz'
+ end
 
-end
+# def fizzbuzz(number1='buzz')
+#   #'buzz'
+#  end

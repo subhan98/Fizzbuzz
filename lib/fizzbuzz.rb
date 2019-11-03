@@ -1,3 +1,5 @@
 def fizzbuzz(number)
-'fizz'
+  'fizz'
+
 end
+fizzbuzz(5)
